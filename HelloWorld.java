@@ -10,4 +10,8 @@ public class HelloWorld {
     public void test1(){
         System.out.println("second");
     }
+
+    public void test2(){
+        System.out.println("third");
+    }
 }
