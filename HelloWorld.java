@@ -6,4 +6,8 @@ public class HelloWorld {
     public void test(){
         System.out.println("tom");
     }
+
+    public void test1(){
+        System.out.println("second");
+    }
 }
